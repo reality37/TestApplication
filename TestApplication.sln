@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{804B894F-4F15-4B3D-ADCE-DFBF20D09A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateSquareLibrary", "CalculateSquareLibrary\CalculateSquareLibrary.csproj", "{6ECBD361-3D04-4938-B941-696BBBA12868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateSquareLibraryTests", "CalculateSquareLibraryTests\CalculateSquareLibraryTests.csproj", "{F4998AB7-2AE8-4A8E-9834-9DB36392E0A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804B894F-4F15-4B3D-ADCE-DFBF20D09A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804B894F-4F15-4B3D-ADCE-DFBF20D09A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804B894F-4F15-4B3D-ADCE-DFBF20D09A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804B894F-4F15-4B3D-ADCE-DFBF20D09A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ECBD361-3D04-4938-B941-696BBBA12868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECBD361-3D04-4938-B941-696BBBA12868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECBD361-3D04-4938-B941-696BBBA12868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECBD361-3D04-4938-B941-696BBBA12868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4998AB7-2AE8-4A8E-9834-9DB36392E0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4998AB7-2AE8-4A8E-9834-9DB36392E0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4998AB7-2AE8-4A8E-9834-9DB36392E0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4998AB7-2AE8-4A8E-9834-9DB36392E0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

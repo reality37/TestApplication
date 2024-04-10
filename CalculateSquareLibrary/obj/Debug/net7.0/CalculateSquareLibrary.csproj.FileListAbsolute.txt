@@ -1,0 +1,12 @@
+C:\Users\Александр\RiderProjects\TestApplication\CalculateSquareLibrary\bin\Debug\net7.0\CalculateSquareLibrary.deps.json
+C:\Users\Александр\RiderProjects\TestApplication\CalculateSquareLibrary\bin\Debug\net7.0\CalculateSquareLibrary.dll
+C:\Users\Александр\RiderProjects\TestApplication\CalculateSquareLibrary\bin\Debug\net7.0\CalculateSquareLibrary.pdb
+C:\Users\Александр\RiderProjects\TestApplication\CalculateSquareLibrary\obj\Debug\net7.0\CalculateSquareLibrary.csproj.AssemblyReference.cache
+C:\Users\Александр\RiderProjects\TestApplication\CalculateSquareLibrary\obj\Debug\net7.0\CalculateSquareLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\RiderProjects\TestApplication\CalculateSquareLibrary\obj\Debug\net7.0\CalculateSquareLibrary.AssemblyInfoInputs.cache
+C:\Users\Александр\RiderProjects\TestApplication\CalculateSquareLibrary\obj\Debug\net7.0\CalculateSquareLibrary.AssemblyInfo.cs
+C:\Users\Александр\RiderProjects\TestApplication\CalculateSquareLibrary\obj\Debug\net7.0\CalculateSquareLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Александр\RiderProjects\TestApplication\CalculateSquareLibrary\obj\Debug\net7.0\CalculateSquareLibrary.dll
+C:\Users\Александр\RiderProjects\TestApplication\CalculateSquareLibrary\obj\Debug\net7.0\refint\CalculateSquareLibrary.dll
+C:\Users\Александр\RiderProjects\TestApplication\CalculateSquareLibrary\obj\Debug\net7.0\CalculateSquareLibrary.pdb
+C:\Users\Александр\RiderProjects\TestApplication\CalculateSquareLibrary\obj\Debug\net7.0\ref\CalculateSquareLibrary.dll

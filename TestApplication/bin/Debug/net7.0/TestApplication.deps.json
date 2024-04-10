@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestApplication/1.0.0": {
+        "dependencies": {
+          "CalculateSquareLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TestApplication.dll": {}
+        }
+      },
+      "CalculateSquareLibrary/1.0.0": {
+        "runtime": {
+          "CalculateSquareLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculateSquareLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
